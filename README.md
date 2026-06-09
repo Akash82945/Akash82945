@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api?username=Akash82945&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash82945&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF"/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=220&section=header&text=AKASH%20KUMAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
