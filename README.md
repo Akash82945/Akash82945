@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=220&section=header&text=AKASH%20KUMAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:111111&height=220&section=header&text=AKASH%20KUMAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
 
 ### ⚫ DATA ANALYTICS • PYTHON DEVELOPMENT • MACHINE LEARNING ⚫
 
