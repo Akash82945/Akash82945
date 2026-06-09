@@ -12,24 +12,19 @@
 
 ## ⚡ SYSTEM PROFILE
 
-```python
-class AkashKumar:
+## 🚀 About Me
 
-    def __init__(self):
-        self.role = "Aspiring Data Analyst"
-        self.education = "B.Tech AIML"
-        self.languages = ["Python", "SQL", "C++"]
-        self.tools = ["Power BI", "Excel", "Git", "VS Code"]
-        self.interests = [
-            "Data Analytics",
-            "Machine Learning",
-            "Automation",
-            "Business Intelligence"
-        ]
+🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-    def mission(self):
-        return "Turning Data Into Decisions"
-```
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights
+
+🐍 Python Developer with hands-on experience in automation, machine learning, and data analysis
+
+📈 Skilled in SQL, Power BI, Excel, Pandas, NumPy, and Scikit-Learn
+
+🤖 Interested in Data Analytics, Business Intelligence, Machine Learning, and AI-powered solutions
+
+💼 Currently seeking Data Analytics, Business Intelligence, and Python Development Internship opportunities
 
 ---
 
