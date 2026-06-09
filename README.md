@@ -1,14 +1,16 @@
 <div align="center">
 
-# AKASH KUMAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=220&section=header&text=AKASH%20KUMAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
 
-### DATA ANALYTICS • PYTHON DEVELOPMENT • MACHINE LEARNING
+### ⚫ DATA ANALYTICS • PYTHON DEVELOPMENT • MACHINE LEARNING ⚫
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Building+Data-Driven+Solutions;Python+Developer;Future+Data+Analyst;Machine+Learning+Explorer;Open+For+Internships" />
 
 </div>
 
 ---
+
+## ⚡ SYSTEM PROFILE
 
 ```python
 class AkashKumar:
@@ -25,13 +27,17 @@ class AkashKumar:
             "Business Intelligence"
         ]
 
-    def current_goal(self):
-        return "Transforming Data into Actionable Insights"
+    def mission(self):
+        return "Turning Data Into Decisions"
 ```
 
 ---
 
-# TECH ARSENAL
+## 🛠 TECH ARSENAL
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark"/>
+</p>
 
 | Category         | Technologies                    |
 | ---------------- | ------------------------------- |
@@ -40,67 +46,45 @@ class AkashKumar:
 | Visualization    | Power BI, Excel, Matplotlib     |
 | Machine Learning | Scikit-Learn                    |
 | Tools            | Git, GitHub, VS Code            |
-| AI Tools         | ChatGPT, Gemini, Claude, Cursor |
+| AI Tools         | ChatGPT, Claude, Gemini, Cursor |
 
 ---
 
-# FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
-### Binance Futures Trading Bot
+🔹 Binance Futures Trading Bot
 
-Automated crypto trading bot with MARKET and LIMIT order execution.
+🔹 Face Recognition Attendance System
 
-### Face Recognition Attendance System
+🔹 Student Result Prediction System
 
-Real-time attendance system powered by OpenCV and facial recognition.
+🔹 Sales Analytics Dashboard
 
-### Student Result Prediction System
+🔹 Python Practice Repository
 
-Machine learning model for predicting academic performance.
-
-### Sales Analytics Dashboard
-
-Business intelligence dashboard for revenue and profit analysis.
-
-### Python Practice Repository
-
-100+ Python programs covering OOP, DSA, algorithms, and mini projects.
-
-### Web Scraper
-
-Automated data extraction and processing solution.
+🔹 Web Scraper
 
 ---
 
-# CERTIFICATION VAULT
-
-Power BI Bootcamp
-
-Data Science with Python
-
-Python Developer Internship
-
-Build RAG Chatbot with Python
-
-Introduction to Artificial Intelligence
-
-Python Bootcamp
-
----
-
-# GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash82945&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash82945&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash82945&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash82945&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash82945&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# CURRENT MISSION
+## 🎯 CURRENT MISSION
 
 * Advanced SQL
 * Power BI Dashboards
@@ -110,20 +94,22 @@ Python Bootcamp
 
 ---
 
-# CONNECT
+## 🌐 CONNECT
 
-LinkedIn → linkedin.com/in/akash82945
+💼 LinkedIn → linkedin.com/in/akash82945
 
-GitHub → github.com/Akash82945
+💻 GitHub → github.com/Akash82945
 
-Email → [akashkumar9576386319@gmail.com](mailto:akashkumar9576386319@gmail.com)
+📧 Email → [akashkumar9576386319@gmail.com](mailto:akashkumar9576386319@gmail.com)
 
 ---
 
 <div align="center">
 
-## "Without data, you're just another person with an opinion."
+![](https://komarev.com/ghpvc/?username=Akash82945\&style=for-the-badge\&color=000000)
 
-📊 DATA ANALYTICS | 🤖 MACHINE LEARNING | 🐍 PYTHON
+### 🖤 DATA • ANALYTICS • PYTHON • AI 🖤
+
+*"Without data, you're just another person with an opinion."*
 
 </div>
