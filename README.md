@@ -1,8 +1,8 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:000000&text=AKASH%20KUMAR&fontColor=00FFFF&fontSize=55"/>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1A1B27,100:000000&text=AKASH%20KUMAR&fontColor=36BCF7&fontSize=55&animation=twinkling"/>
+</p>
 ### ⚫ DATA ANALYTICS • PYTHON DEVELOPMENT • MACHINE LEARNING ⚫
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Building+Data-Driven+Solutions;Python+Developer;Future+Data+Analyst;Machine+Learning+Explorer;Open+For+Internships" />
