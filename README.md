@@ -14,18 +14,19 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+## ⚡ Quick Facts
 
-📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights
+🔭 Currently Working On: Sales Analytics Dashboard
 
-🐍 Python Developer with hands-on experience in automation, machine learning, and data analysis
+🌱 Learning: Advanced SQL & Power BI
 
-📈 Skilled in SQL, Power BI, Excel, Pandas, NumPy, and Scikit-Learn
+💻 Programming: Python, SQL, C++
 
-🤖 Interested in Data Analytics, Business Intelligence, Machine Learning, and AI-powered solutions
+📊 Analytics: Power BI, Excel, Pandas, NumPy
 
-💼 Currently seeking Data Analytics, Business Intelligence, and Python Development Internship opportunities
+🤖 AIML Student
 
+🚀 Open to Internship Opportunities
 ---
 
 ## 🛠 TECH ARSENAL
