@@ -93,9 +93,9 @@
 
 ## 🌐 CONNECT
 
-💼 LinkedIn → linkedin.com/in/akash82945
+💼 LinkedIn → https:/linkedin.com/in/akash82945
 
-💻 GitHub → github.com/Akash82945
+💻 GitHub → https://github.com/Akash82945
 
 📧 Email → [akashkumar9576386319@gmail.com](mailto:akashkumar9576386319@gmail.com)
 
