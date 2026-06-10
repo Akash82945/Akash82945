@@ -93,7 +93,7 @@
 
 ## 🌐 CONNECT
 
-💼 LinkedIn → https:/linkedin.com/in/akash82945
+💼 LinkedIn → https://www.linkedin.com/in/akash82945
 
 💻 GitHub → https://github.com/Akash82945
 
